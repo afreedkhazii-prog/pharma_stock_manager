@@ -1,0 +1,1 @@
+# pharma_stock_manager
